@@ -1,0 +1,6 @@
+{
+  "name": "Explore Sabang — Pulau Weh",
+  "description": "Panduan wisata terpadu, peta kartografis interaktif, simulator tiket kapal, kuliner halal & akomodasi ramah Muslim, itinerary planner, dan dashboard CRUD untuk Kota Sabang (Pulau Weh), Aceh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
